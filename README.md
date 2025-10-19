@@ -1,5 +1,3 @@
-Acknowledged. The complete and final `README.md` for the Airbnb Clone Project, incorporating all required sections and ordered according to your last instruction, is provided below.
-
 ***
 
 # 🏠 The Airbnb Clone Project
@@ -14,7 +12,7 @@ The project enables learners to understand **complex architectures, workflows, a
 
 ## 🎯 Learning Objectives
 
-This project is tailored to enhance your expertise in modern software development practices. By completing these tasks, learners will:
+This project is tailored to enhance learners expertise in modern software development practices. By completing these tasks, learners will:
 
 * **Master collaborative team workflows** using GitHub.
 * Deepen their understanding of **backend architecture and database design principles**.
@@ -31,9 +29,9 @@ The objective of this section is to outline the various critical roles required 
 
 | Role | Responsibility |
 | :--- | :--- |
-| **Backend Developer** | Implementation of server-side logic and core business functions, including API development (using Django) and ensuring high application performance. |
-| **Database Architect/DBA** | Design, implementation, and optimization of the relational database structure (MySQL), ensuring data integrity and query scalability. |
-| **DevOps Engineer** | Automation of development workflows, managing infrastructure, and setting up the **CI/CD pipeline** (using GitHub Actions/Docker) for seamless deployment. |
+| **Backend Developer** | Implementation of server-side logic and core business functions, including API development and ensuring high application performance. |
+| **Database Architect/DBA** | Design, implementation, and optimization of the relational database structure , ensuring data integrity and query scalability. |
+| **DevOps Engineer** | Automation of development workflows, managing infrastructure, and setting up the **CI/CD pipeline** for seamless deployment. |
 | **Security Engineer** | Identifying vulnerabilities, implementing advanced defense mechanisms, and ensuring compliance with **API security fundamentals**. |
 | **Technical Writer** | Creation and maintenance of comprehensive project documentation, covering architecture, APIs, and internal team processes. |
 | **Project Manager** | Planning, coordination, and overall project delivery management, including scope tracking, risk management, and stakeholder communication. |
@@ -193,24 +191,3 @@ This structured approach ensures learners not only build technical skills but al
 * **CI/CD Pipeline Integration:** Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during deployment.
 
 ---
-
-## 📝 Project Assessment & Deadline
-
-### Evaluation Method (Hybrid)
-
-Your project will be evaluated primarily through **manual reviews**. To ensure you receive your full score, please:
-
-1.  ✅ **Complete** your project on time
-2.  📄 **Submit** all required files
-3.  🔗 **Generate** your review link
-4.  👥 Have your **peers review** your work
-
-An **auto-check** will also be in place to verify the presence of core files needed for manual review.
-
-### ⏰ Important Note
-
-If the deadline passes, you won’t be able to generate your review link—**so be sure to submit on time!**
-
-Happy coding! ✨
-
-***
